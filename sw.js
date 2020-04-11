@@ -2,6 +2,7 @@ const version = 1;
 const cacheName = `precache-v${version}`;
 const img404 = "/images/404.png";
 const urlsToCache = [
+    "/",
     "/index.html",
     "/page-1.html",
     "/js/main.js",
